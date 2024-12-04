@@ -1,0 +1,1 @@
+This repository contains a Python function that calculates the average of a list of numbers.  The code includes examples demonstrating a potential bug related to division by zero if the list contains only zeros.  A solution to this bug is also provided.  The bug and solution are showcased in separate Python files.
